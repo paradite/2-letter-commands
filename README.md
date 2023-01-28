@@ -1,4 +1,4 @@
-# 2-letter-commands
+# 2 Letter Commands
 
 I was doing `fg` and `bg` today and got curious on how many valid 2-letter commands are there on a UNIX (macOS) system.
 
