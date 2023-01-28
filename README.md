@@ -72,4 +72,4 @@ That's pretty high.
 ---
 
 PRs are welcomed!
-A brief explanation of what each of them do would be a nice addition.
+A brief explanation of what each of them do would be a nice addition. Some of them can be found [here](https://www.davekb.com/browse_computer_tips:linux_two_letter_commands:txt)
